@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+influxdb/
+
+.DS_STORE
+docs/*.tex
+!docs/preamble.tex
+docs/*.bkp
+docs/*.pdf
